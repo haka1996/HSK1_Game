@@ -1,8 +1,8 @@
 {
   "id": 5,
-  "name": "HSK 1.2",
+  "name": "Weather",
   "date": "April 26, 2026",
-  "topic": "Weather",
+  "topic": "HSK 1.2",
   "concepts": [
   {
     "title": "Weather Question: How is the weather?",
@@ -61,7 +61,18 @@
     "note": "Chinese often uses time words instead of future tense markers."
   }
 ],
-  "grammar": [],
+  "grammar": [
+  { "zh": "今天天气怎么样？", "pinyin": "Jīntiān tiānqì zěnme yàng?", "en": "How is the weather today?" },
+  { "zh": "今天很热。", "pinyin": "Jīntiān hěn rè.", "en": "Today is hot." },
+  { "zh": "今天很冷。", "pinyin": "Jīntiān hěn lěng.", "en": "Today is cold." },
+  { "zh": "今天是晴天。", "pinyin": "Jīntiān shì qíngtiān.", "en": "Today is sunny." },
+  { "zh": "今天是阴天。", "pinyin": "Jīntiān shì yīntiān.", "en": "Today is cloudy." },
+  { "zh": "今天刮风。", "pinyin": "Jīntiān guāfēng.", "en": "It is windy today." },
+  { "zh": "今天下雨。", "pinyin": "Jīntiān xià yǔ.", "en": "It is raining today." },
+  { "zh": "明天下雪。", "pinyin": "Míngtiān xià xuě.", "en": "It will snow tomorrow." },
+  { "zh": "今天很潮湿。", "pinyin": "Jīntiān hěn cháoshī.", "en": "Today is humid." },
+  { "zh": "今天很干燥。", "pinyin": "Jīntiān hěn gānzào.", "en": "Today is dry." }
+],
   "vocab": [
     { "zh": "天气", "pinyin": "tiānqì", "en": "weather" },
     { "zh": "晴天", "pinyin": "qíngtiān", "en": "sunny day" },
