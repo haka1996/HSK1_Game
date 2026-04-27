@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "name": "Class 2",
+  "date": "April 13, 2026",
+  "topic": "Prepositions",
+  "concepts": [],
+  "grammar": [
+    {
+      "zh": "杯子在桌子上面",
+      "pinyin": "Bēizi zài zhuōzi shàngmiàn",
+      "en": "The cup is on the table"
+    },
+    {
+      "zh": "我在房间里面",
+      "pinyin": "Wǒ zài fángjiān lǐmiàn",
+      "en": "I am inside the room"
+    },
+    {
+      "zh": "学校在我的家旁边",
+      "pinyin": "Xuéxiào zài wǒ de jiā pángbiān",
+      "en": "The school is next to my house"
+    },
+    {
+      "zh": "电脑在椅子下面",
+      "pinyin": "Diànnǎo zài yǐzi xiàmiàn",
+      "en": "The computer is under the chair"
+    },
+    {
+      "zh": "你在沙发上吗？",
+      "pinyin": "Nǐ zài shāfā shàng ma?",
+      "en": "Are you on the sofa?"
+    },
+    {
+      "zh": "衬衫在柜子里面",
+      "pinyin": "Chènshān zài guìzi lǐmiàn",
+      "en": "The shirt is inside the cupboard"
+    }
+  ],
+  "vocab": [
+    { "zh": "里面", "pinyin": "lǐmiàn", "en": "inside" },
+    { "zh": "外面", "pinyin": "wàimiàn", "en": "outside" },
+    { "zh": "上面", "pinyin": "shàngmiàn", "en": "on / above" },
+    { "zh": "下面", "pinyin": "xiàmiàn", "en": "under / below" },
+    { "zh": "前面", "pinyin": "qiánmiàn", "en": "in front" },
+    { "zh": "后面", "pinyin": "hòumiàn", "en": "behind" },
+    { "zh": "左边", "pinyin": "zuǒbiān", "en": "left side" },
+    { "zh": "右边", "pinyin": "yòubiān", "en": "right side" },
+    { "zh": "中间", "pinyin": "zhōngjiān", "en": "middle / center" }
+  ]
+}
