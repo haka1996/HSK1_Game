@@ -1,0 +1,37 @@
+{
+  "id": 2,
+  "name": "Testing",
+  "date": "-",
+  "topic": "Numbers & Time",
+  "concepts": [],
+  "grammar": [
+    {
+      "zh": "现在几点？",
+      "pinyin": "Xiànzài jǐ diǎn?",
+      "en": "What time is it now?"
+    },
+    {
+      "zh": "现在是三点半。",
+      "pinyin": "Xiànzài shì sān diǎn bàn.",
+      "en": "It is now 3:30."
+    },
+    {
+      "zh": "我每天七点起床。",
+      "pinyin": "Wǒ měitiān qī diǎn qǐchuáng.",
+      "en": "I get up at 7 every day."
+    },
+    {
+      "zh": "今天是星期几？",
+      "pinyin": "Jīntiān shì xīngqī jǐ?",
+      "en": "What day of the week is today?"
+    }
+  ],
+  "vocab": [
+    { "zh": "几点", "pinyin": "jǐ diǎn", "en": "what time" },
+    { "zh": "现在", "pinyin": "xiànzài", "en": "now" },
+    { "zh": "每天", "pinyin": "měitiān", "en": "every day" },
+    { "zh": "起床", "pinyin": "qǐchuáng", "en": "to get up" },
+    { "zh": "星期", "pinyin": "xīngqī", "en": "week / day of week" },
+    { "zh": "今天", "pinyin": "jīntiān", "en": "today" }
+  ]
+}
