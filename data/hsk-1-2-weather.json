@@ -3,7 +3,64 @@
   "name": "HSK 1.2",
   "date": "April 26, 2026",
   "topic": "Weather",
-  "concepts": [],
+  "concepts": [
+  {
+    "title": "Weather Question: How is the weather?",
+    "explanation": "Use '今天天气怎么样？' to ask about today's weather.",
+    "example_zh": "今天天气怎么样？",
+    "example_pinyin": "Jīntiān tiānqì zěnme yàng?",
+    "example_en": "How is the weather today?",
+    "note": "怎么样 (zěnme yàng) means 'how is it?'."
+  },
+  {
+    "title": "Describing Weather with Adjectives",
+    "explanation": "Use '很 + adjective' to describe weather conditions.",
+    "example_zh": "今天很热。",
+    "example_pinyin": "Jīntiān hěn rè.",
+    "example_en": "Today is hot.",
+    "note": "很 (hěn) is often required before adjectives and doesn’t always mean 'very'."
+  },
+  {
+    "title": "Weather Type with 是",
+    "explanation": "Use '是 + weather type noun' for conditions like sunny or cloudy.",
+    "example_zh": "今天是晴天。",
+    "example_pinyin": "Jīntiān shì qíngtiān.",
+    "example_en": "Today is sunny.",
+    "note": "Use 是 only with nouns like 晴天 (sunny day), not adjectives like 热."
+  },
+  {
+    "title": "Using 下 for Rain, Snow, Hail",
+    "explanation": "Use '下' to describe precipitation like rain, snow, or hail.",
+    "example_zh": "今天下雨。",
+    "example_pinyin": "Jīntiān xià yǔ.",
+    "example_en": "It is raining today.",
+    "note": "下 literally means 'to fall'. Used with weather like rain (雨), snow (雪), hail (冰雹)."
+  },
+  {
+    "title": "Talking About Wind",
+    "explanation": "Use '刮风' to say it is windy.",
+    "example_zh": "今天刮风。",
+    "example_pinyin": "Jīntiān guāfēng.",
+    "example_en": "It is windy today.",
+    "note": "刮风 is a fixed verb phrase meaning 'wind is blowing'."
+  },
+  {
+    "title": "Time + Weather Structure",
+    "explanation": "Time expressions come before the weather description.",
+    "example_zh": "今天下午很热。",
+    "example_pinyin": "Jīntiān xiàwǔ hěn rè.",
+    "example_en": "This afternoon is hot.",
+    "note": "Always place time before the adjective or verb."
+  },
+  {
+    "title": "Future Weather",
+    "explanation": "Use time words like 明天 (tomorrow) to talk about future weather.",
+    "example_zh": "明天下雨。",
+    "example_pinyin": "Míngtiān xià yǔ.",
+    "example_en": "It will rain tomorrow.",
+    "note": "Chinese often uses time words instead of future tense markers."
+  }
+],
   "grammar": [],
   "vocab": [
     { "zh": "天气", "pinyin": "tiānqì", "en": "weather" },
