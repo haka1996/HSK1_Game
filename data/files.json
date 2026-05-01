@@ -1,6 +1,10 @@
 {
-  "files": 
-  [
-    "basics.json"
+  "files": [
+    "basics.json",
+    "daily-objects.json",
+    "day-time.json",
+    "prepositions.json",
+    "weather.json",
+    "test.json"
   ]
 }
