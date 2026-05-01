@@ -85,7 +85,7 @@
       "note": "Just numbers + 月. No creativity required."
     }
   ],
-  grammar: [
+  "grammar": [
   { "zh": "现在几点？", "pinyin": "Xiànzài jǐ diǎn?", "en": "What time is it now?" },
   { "zh": "你什么时候去学校？", "pinyin": "Nǐ shénme shíhou qù xuéxiào?", "en": "When do you go to school?" },
   { "zh": "我八点去学校。", "pinyin": "Wǒ bā diǎn qù xuéxiào.", "en": "I go to school at 8 o’clock." },
@@ -97,7 +97,7 @@
   { "zh": "我下午三点吃饭。", "pinyin": "Wǒ xiàwǔ sān diǎn chī fàn.", "en": "I eat at 3 PM." },
   { "zh": "我们晚上七点见。", "pinyin": "Wǒmen wǎnshàng qī diǎn jiàn.", "en": "We meet at 7 PM." }
   ],
-  vocab: [
+  "vocab": [
     { "zh": "现在", "pinyin": "xiànzài", "en": "now" },
   { "zh": "时候", "pinyin": "shíhou", "en": "time/moment" },
   { "zh": "什么时候", "pinyin": "shénme shíhou", "en": "when" },
