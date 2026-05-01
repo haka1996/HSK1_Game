@@ -4,6 +4,7 @@
     "daily-objects.json",
     "day-time.json",
     "prepositions.json",
-    "weather.json"
+    "weather.json",
+    "city.json"
   ]
 }
