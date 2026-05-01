@@ -1,0 +1,145 @@
+{
+  id: 6,
+  name: "Class 6",
+  date: "April 30, 2026",
+  topic: "Time, Days & Asking When",
+  concepts: [
+    {
+      "title": "Asking Time",
+      "explanation": "Use '现在几点？' to ask the current time.",
+      "example_zh": "现在几点？",
+      "example_pinyin": "Xiànzài jǐ diǎn?",
+      "example_en": "What time is it now?",
+      "note": "几点 (jǐ diǎn) is used for asking hours."
+    },
+    {
+      "title": "Using 点 (Hour)",
+      "explanation": "Use '点' to express hours in time.",
+      "example_zh": "我八点去学校。",
+      "example_pinyin": "Wǒ bā diǎn qù xuéxiào.",
+      "example_en": "I go to school at 8 o’clock.",
+      "note": "点 is only used for clock time, not duration."
+    },
+    {
+      "title": "Minutes and Seconds",
+      "explanation": "Use '分' for minutes and '秒' for seconds.",
+      "example_zh": "现在三点十分。",
+      "example_pinyin": "Xiànzài sān diǎn shí fēn.",
+      "example_en": "It is 3:10 now.",
+      "note": "分钟 and 秒钟 are used for duration, not exact time."
+    },
+    {
+      "title": "Half and Quarter Time",
+      "explanation": "Use '半' for half, '一刻' for 15 minutes, and '三刻' for 45 minutes.",
+      "example_zh": "现在三点半。",
+      "example_pinyin": "Xiànzài sān diǎn bàn.",
+      "example_en": "It is 3:30 now.",
+      "note": "一刻 = 15 minutes, 三刻 = 45 minutes."
+    },
+    {
+      "title": "Asking When (什么时候)",
+      "explanation": "Use '什么时候' to ask when something happens.",
+      "example_zh": "你什么时候去学校？",
+      "example_pinyin": "Nǐ shénme shíhou qù xuéxiào?",
+      "example_en": "When do you go to school?",
+      "note": "Structure: Subject + 什么时候 + Verb."
+    },
+    {
+      "title": "Before and After Time",
+      "explanation": "Use '前' for before and '后' for after.",
+      "example_zh": "我八点前去学校。",
+      "example_pinyin": "Wǒ bā diǎn qián qù xuéxiào.",
+      "example_en": "I go to school before 8 o’clock.",
+      "note": "Place 前/后 after the time expression."
+    },
+    {
+      "title": "Time Placement in Sentences",
+      "explanation": "Time expressions usually come before the verb.",
+      "example_zh": "我下午三点吃饭。",
+      "example_pinyin": "Wǒ xiàwǔ sān diǎn chī fàn.",
+      "example_en": "I eat at 3 PM.",
+      "note": "Structure: Subject + Time + Verb + Object."
+    },
+    {
+      "title": "Time of Day Words",
+      "explanation": "Use specific words to indicate parts of the day.",
+      "example_zh": "我晚上七点见。",
+      "example_pinyin": "Wǒmen wǎnshàng qī diǎn jiàn.",
+      "example_en": "We meet at 7 PM.",
+      "note": "Examples: 早上, 下午, 晚上."
+    },
+    {
+      "title": "Days of the Week",
+      "explanation": "Use '星期 + number' to express days.",
+      "example_zh": "今天是星期一。",
+      "example_pinyin": "Jīntiān shì xīngqī yī.",
+      "example_en": "Today is Monday.",
+      "note": "星期日 can also be said as 星期天."
+    },
+    {
+      "title": "Months of the Year",
+      "explanation": "Use number + 月 to express months.",
+      "example_zh": "现在是三月。",
+      "example_pinyin": "Xiànzài shì sān yuè.",
+      "example_en": "It is March now.",
+      "note": "Just numbers + 月. No creativity required."
+    }
+  ],
+  grammar: [
+    { zh: "现在几点？", pinyin: "Xiànzài jǐ diǎn?", en: "What time is it now?" },
+    { zh: "你什么时候去学校？", pinyin: "Nǐ shénme shíhou qù xuéxiào?", en: "When do you go to school?" },
+    { zh: "我八点去学校。", pinyin: "Wǒ bā diǎn qù xuéxiào.", en: "I go to school at 8 o’clock." },
+    { zh: "我八点前去学校。", pinyin: "Wǒ bā diǎn qián qù xuéxiào.", en: "I go to school before 8 o’clock." },
+    { zh: "我八点后回家。", pinyin: "Wǒ bā diǎn hòu huí jiā.", en: "I go home after 8 o’clock." },
+    { zh: "现在三点半。", pinyin: "Xiànzài sān diǎn bàn.", en: "It is 3:30 now." },
+    { zh: "现在四点一刻。", pinyin: "Xiànzài sì diǎn yí kè.", en: "It is 4:15 now." },
+    { zh: "现在五点三刻。", pinyin: "Xiànzài wǔ diǎn sān kè.", en: "It is 5:45 now." },
+    { zh: "我下午三点吃饭。", pinyin: "Wǒ xiàwǔ sān diǎn chī fàn.", en: "I eat at 3 PM." },
+    { zh: "我们晚上七点见。", pinyin: "Wǒmen wǎnshàng qī diǎn jiàn.", en: "We meet at 7 PM." }
+  ],
+  vocab: [
+    { zh: "现在", pinyin: "xiànzài", en: "now" },
+    { zh: "时候", pinyin: "shíhou", en: "time/moment" },
+    { zh: "什么时候", pinyin: "shénme shíhou", en: "when" },
+    { zh: "早上", pinyin: "zǎoshang", en: "early morning" },
+    { zh: "上午", pinyin: "shàngwǔ", en: "late morning" },
+    { zh: "中午", pinyin: "zhōngwǔ", en: "midday" },
+    { zh: "下午", pinyin: "xiàwǔ", en: "afternoon" },
+    { zh: "晚上", pinyin: "wǎnshàng", en: "evening" },
+    { zh: "半夜", pinyin: "bànyè", en: "midnight" },
+    { zh: "点", pinyin: "diǎn", en: "hour (o’clock)" },
+    { zh: "分", pinyin: "fēn", en: "minute" },
+    { zh: "秒", pinyin: "miǎo", en: "second" },
+    { zh: "小时", pinyin: "xiǎoshí", en: "hour (duration)" },
+    { zh: "分钟", pinyin: "fēnzhōng", en: "minutes (duration)" },
+    { zh: "秒钟", pinyin: "miǎozhōng", en: "seconds (duration)" },
+    { zh: "刻", pinyin: "kè", en: "quarter (15 min)" },
+    { zh: "半", pinyin: "bàn", en: "half" },
+    { zh: "三刻", pinyin: "sān kè", en: "three quarters (45 min)" },
+    { zh: "前", pinyin: "qián", en: "before" },
+    { zh: "后", pinyin: "hòu", en: "after" },
+    { zh: "星期一", pinyin: "xīngqī yī", en: "Monday" },
+    { zh: "星期二", pinyin: "xīngqī èr", en: "Tuesday" },
+    { zh: "星期三", pinyin: "xīngqī sān", en: "Wednesday" },
+    { zh: "星期四", pinyin: "xīngqī sì", en: "Thursday" },
+    { zh: "星期五", pinyin: "xīngqī wǔ", en: "Friday" },
+    { zh: "星期六", pinyin: "xīngqī liù", en: "Saturday" },
+    { zh: "星期日", pinyin: "xīngqī rì", en: "Sunday" },
+    { zh: "一月", pinyin: "yī yuè", en: "January" },
+    { zh: "二月", pinyin: "èr yuè", en: "February" },
+    { zh: "三月", pinyin: "sān yuè", en: "March" },
+    { zh: "四月", pinyin: "sì yuè", en: "April" },
+    { zh: "五月", pinyin: "wǔ yuè", en: "May" },
+    { zh: "六月", pinyin: "liù yuè", en: "June" },
+    { zh: "七月", pinyin: "qī yuè", en: "July" },
+    { zh: "八月", pinyin: "bā yuè", en: "August" },
+    { zh: "九月", pinyin: "jiǔ yuè", en: "September" },
+    { zh: "十月", pinyin: "shí yuè", en: "October" },
+    { zh: "十一月", pinyin: "shíyī yuè", en: "November" },
+    { zh: "十二月", pinyin: "shíèr yuè", en: "December" },
+    { zh: "星期", pinyin: "xīngqī", en: "week" },
+    { zh: "天", pinyin: "tiān", en: "day" },
+    { zh: "年", pinyin: "nián", en: "year" },
+    { zh: "月", pinyin: "yuè", en: "month" }
+  ]
+}
