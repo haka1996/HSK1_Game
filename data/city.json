@@ -1,0 +1,48 @@
+{
+  "id": 7,
+  "name": "Cities & Locations",
+  "date": "April 26, 2026",
+  "topic": "HSK 1.2",
+  "concepts": [
+    {
+      "title": "Talking About Cities",
+      "explanation": "Use city names to talk about places you live in, visit, or like.",
+      "example_zh": "我住在北京。",
+      "example_pinyin": "Wǒ zhù zài Běijīng.",
+      "example_en": "I live in Beijing.",
+      "note": "Use 在 (zài) to indicate location."
+    },
+    {
+      "title": "Asking Where Someone Is",
+      "explanation": "Use 哪里 (nǎlǐ) to ask where someone is.",
+      "example_zh": "你在哪儿？",
+      "example_pinyin": "Nǐ zài nǎr?",
+      "example_en": "Where are you?",
+      "note": "哪儿 (nǎr) is a spoken form of 哪里."
+    }
+  ],
+  "grammar": [
+    { "zh": "你在哪儿？", "pinyin": "Nǐ zài nǎr?", "en": "Where are you?" },
+    { "zh": "我在北京。", "pinyin": "Wǒ zài Běijīng.", "en": "I am in Beijing." },
+    { "zh": "我住在上海。", "pinyin": "Wǒ zhù zài Shànghǎi.", "en": "I live in Shanghai." },
+    { "zh": "你去东京吗？", "pinyin": "Nǐ qù Dōngjīng ma?", "en": "Are you going to Tokyo?" },
+    { "zh": "我想去巴黎。", "pinyin": "Wǒ xiǎng qù Bālí.", "en": "I want to go to Paris." },
+    { "zh": "他在纽约工作。", "pinyin": "Tā zài Niǔyuē gōngzuò.", "en": "He works in New York." },
+    { "zh": "我们去首尔吧。", "pinyin": "Wǒmen qù Shǒu'ěr ba.", "en": "Let’s go to Seoul." },
+    { "zh": "伦敦很大。", "pinyin": "Lúndūn hěn dà.", "en": "London is big." },
+    { "zh": "台北很好。", "pinyin": "Táiběi hěn hǎo.", "en": "Taipei is nice." },
+    { "zh": "柏林很冷。", "pinyin": "Bólín hěn lěng.", "en": "Berlin is cold." }
+  ],
+  "vocab": [
+    { "zh": "德里", "pinyin": "Délǐ", "en": "Delhi" },
+    { "zh": "北京", "pinyin": "Běijīng", "en": "Beijing" },
+    { "zh": "东京", "pinyin": "Dōngjīng", "en": "Tokyo" },
+    { "zh": "台北", "pinyin": "Táiběi", "en": "Taipei" },
+    { "zh": "上海", "pinyin": "Shànghǎi", "en": "Shanghai" },
+    { "zh": "巴黎", "pinyin": "Bālí", "en": "Paris" },
+    { "zh": "纽约", "pinyin": "Niǔyuē", "en": "New York" },
+    { "zh": "柏林", "pinyin": "Bólín", "en": "Berlin" },
+    { "zh": "首尔", "pinyin": "Shǒu'ěr", "en": "Seoul" },
+    { "zh": "伦敦", "pinyin": "Lúndūn", "en": "London" }
+  ]
+}
