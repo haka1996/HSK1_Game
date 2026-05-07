@@ -1,0 +1,162 @@
+{
+  "id": 14,
+  "name": "Phone Calls & Ongoing Actions",
+  "date": "03-May-2026",
+  "topic": "HSK 1.2",
+  "concepts": [
+    {
+      "title": "喂 (wéi) — Hello on the Phone",
+      "explanation": "喂 is used when answering or starting a phone call.",
+      "example_zh": "喂，你好。",
+      "example_pinyin": "Wéi, nǐ hǎo.",
+      "example_en": "Hello.",
+      "note": "Use 喂 mainly for phone conversations, not formal face-to-face greetings."
+    },
+    {
+      "title": "给 (gěi) with 打电话 (dǎ diànhuà)",
+      "explanation": "Use 给 to show whom you are calling.",
+      "example_zh": "我给妈妈打电话。",
+      "example_pinyin": "Wǒ gěi māma dǎ diànhuà.",
+      "example_en": "I am calling my mom.",
+      "note": "Another common order is 我打电话给妈妈。"
+    },
+    {
+      "title": "在……呢 for Ongoing Phone Actions",
+      "explanation": "Use 在……呢 to show an action is happening right now.",
+      "example_zh": "她在给朋友打电话呢。",
+      "example_pinyin": "Tā zài gěi péngyou dǎ diànhuà ne.",
+      "example_en": "She is calling her friend right now.",
+      "note": "在 marks ongoing action, 呢 adds a natural continuous tone."
+    },
+    {
+      "title": "打错了 (dǎ cuò le) — Called the Wrong Number",
+      "explanation": "打错了 means you dialed the wrong number.",
+      "example_zh": "你打错了。",
+      "example_pinyin": "Nǐ dǎ cuò le.",
+      "example_en": "You called the wrong number.",
+      "note": "错 means wrong or mistaken."
+    },
+    {
+      "title": "在家 (zài jiā) — At Home",
+      "explanation": "在家 means 'to be at home'.",
+      "example_zh": "他不在家。",
+      "example_pinyin": "Tā bú zài jiā.",
+      "example_en": "He is not at home.",
+      "note": "不在 means 'not at'."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "喂，你是哪位？",
+      "pinyin": "Wéi, nǐ shì nǎ wèi?",
+      "en": "Hello, who is this?"
+    },
+    {
+      "zh": "你在给谁打电话？",
+      "pinyin": "Nǐ zài gěi shéi dǎ diànhuà?",
+      "en": "Who are you calling?"
+    },
+    {
+      "zh": "我在给医生打电话。",
+      "pinyin": "Wǒ zài gěi yīshēng dǎ diànhuà.",
+      "en": "I am calling my doctor."
+    },
+    {
+      "zh": "没有这个人，你打错了。",
+      "pinyin": "Méiyǒu zhège rén, nǐ dǎ cuò le.",
+      "en": "There is no such person, you called the wrong number."
+    },
+    {
+      "zh": "对不起。",
+      "pinyin": "Duìbuqǐ.",
+      "en": "Sorry."
+    },
+    {
+      "zh": "没关系。",
+      "pinyin": "Méi guānxi.",
+      "en": "No problem."
+    },
+    {
+      "zh": "他晚上八点半前回家。",
+      "pinyin": "Tā wǎnshang bā diǎn bàn qián huí jiā.",
+      "en": "He will come home before 8:30 PM."
+    },
+    {
+      "zh": "我八点半后打电话。",
+      "pinyin": "Wǒ bā diǎn bàn hòu dǎ diànhuà.",
+      "en": "I will call after 8:30."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "喂",
+      "pinyin": "wéi",
+      "en": "hello (on the phone)"
+    },
+    {
+      "zh": "给",
+      "pinyin": "gěi",
+      "en": "to / for"
+    },
+    {
+      "zh": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "en": "to make a phone call"
+    },
+    {
+      "zh": "谁",
+      "pinyin": "shéi",
+      "en": "who"
+    },
+    {
+      "zh": "医生",
+      "pinyin": "yīshēng",
+      "en": "doctor"
+    },
+    {
+      "zh": "错",
+      "pinyin": "cuò",
+      "en": "wrong / mistake"
+    },
+    {
+      "zh": "问",
+      "pinyin": "wèn",
+      "en": "to ask"
+    },
+    {
+      "zh": "回答",
+      "pinyin": "huídá",
+      "en": "to answer"
+    },
+    {
+      "zh": "对",
+      "pinyin": "duì",
+      "en": "correct"
+    },
+    {
+      "zh": "在家",
+      "pinyin": "zài jiā",
+      "en": "at home"
+    },
+    {
+      "zh": "回家",
+      "pinyin": "huí jiā",
+      "en": "to return home"
+    },
+    {
+      "zh": "前",
+      "pinyin": "qián",
+      "en": "before"
+    },
+    {
+      "zh": "后",
+      "pinyin": "hòu",
+      "en": "after"
+    },
+    {
+      "zh": "作业",
+      "pinyin": "zuòyè",
+      "en": "homework"
+    }
+  ]
+}
