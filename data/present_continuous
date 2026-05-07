@@ -1,0 +1,109 @@
+{
+  "id": 13,
+  "name": "Actions in Progress",
+  "date": "-",
+  "topic": "HSK 1.13",
+  "concepts": [
+    {
+      "title": "在……呢 (zài...ne) — Actions Happening Right Now",
+      "explanation": "Use 在 before a verb and 呢 at the end to show an action is happening right now.",
+      "example_zh": "我在看电视呢。",
+      "example_pinyin": "Wǒ zài kàn diànshì ne.",
+      "example_en": "I am watching TV.",
+      "note": "在 marks ongoing action. 呢 adds a natural 'right now' feeling."
+    },
+    {
+      "title": "Negative Form with 没在 (méi zài)",
+      "explanation": "Use 没在 before the verb to say an action is not happening right now.",
+      "example_zh": "我没在看电视。",
+      "example_pinyin": "Wǒ méi zài kàn diànshì.",
+      "example_en": "I am not watching TV.",
+      "note": "Use 没, not 不, for ongoing actions."
+    },
+    {
+      "title": "Question Form with 吗 (ma)",
+      "explanation": "Add 吗 at the end of the sentence to ask whether an action is happening.",
+      "example_zh": "你在看电视吗？",
+      "example_pinyin": "Nǐ zài kàn diànshì ma?",
+      "example_en": "Are you watching TV?",
+      "note": "Chinese questions usually keep the same word order."
+    },
+    {
+      "title": "做什么 (zuò shénme) — What are you doing?",
+      "explanation": "Use 在做什么 to ask what someone is doing right now.",
+      "example_zh": "你在做什么呢？",
+      "example_pinyin": "Nǐ zài zuò shénme ne?",
+      "example_en": "What are you doing?",
+      "note": "什么 stays in the same position as the answer."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "我在看电视呢。",
+      "pinyin": "Wǒ zài kàn diànshì ne.",
+      "en": "I am watching TV."
+    },
+    {
+      "zh": "他在做饭呢。",
+      "pinyin": "Tā zài zuò fàn ne.",
+      "en": "He is cooking."
+    },
+    {
+      "zh": "你在工作吗？",
+      "pinyin": "Nǐ zài gōngzuò ma?",
+      "en": "Are you working?"
+    },
+    {
+      "zh": "我没在睡觉。",
+      "pinyin": "Wǒ méi zài shuìjiào.",
+      "en": "I am not sleeping."
+    },
+    {
+      "zh": "你在做什么呢？",
+      "pinyin": "Nǐ zài zuò shénme ne?",
+      "en": "What are you doing?"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "在",
+      "pinyin": "zài",
+      "en": "to be in the middle of doing"
+    },
+    {
+      "zh": "呢",
+      "pinyin": "ne",
+      "en": "particle for ongoing action"
+    },
+    {
+      "zh": "看",
+      "pinyin": "kàn",
+      "en": "to watch / read"
+    },
+    {
+      "zh": "电视",
+      "pinyin": "diànshì",
+      "en": "television"
+    },
+    {
+      "zh": "做饭",
+      "pinyin": "zuò fàn",
+      "en": "to cook"
+    },
+    {
+      "zh": "工作",
+      "pinyin": "gōngzuò",
+      "en": "to work"
+    },
+    {
+      "zh": "睡觉",
+      "pinyin": "shuìjiào",
+      "en": "to sleep"
+    },
+    {
+      "zh": "什么",
+      "pinyin": "shénme",
+      "en": "what"
+    }
+  ]
+}
