@@ -6,6 +6,7 @@
     "prepositions.json",
     "weather.json",
     "present_continuous.json",
-    "city.json"
+    "city.json",
+    "conversation_on_phone.json"
   ]
 }
