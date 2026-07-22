@@ -7,6 +7,7 @@
     "weather.json",
     "present_continuous.json",
     "city.json",
-    "conversation_on_phone.json"
+    "conversation_on_phone.json",
+    "greetings.json"
   ]
 }
