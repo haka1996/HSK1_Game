@@ -1,0 +1,230 @@
+{
+  "id": 7,
+  "name": "Greetings & Polite Expressions",
+  "date": "-",
+  "topic": "HSK 1.1",
+  "concepts": [
+    {
+      "title": "Basic Greetings",
+      "explanation": "These are the most common greetings used when meeting people.",
+      "example_zh": "你好！",
+      "example_pinyin": "Nǐ hǎo!",
+      "example_en": "Hello!",
+      "note": "您好 (Nín hǎo) is the formal version used to show respect."
+    },
+    {
+      "title": "Time-based Greetings",
+      "explanation": "Chinese greetings change depending on the time of day.",
+      "example_zh": "早上好！",
+      "example_pinyin": "Zǎoshang hǎo!",
+      "example_en": "Good morning!",
+      "note": "Use 上午好 before noon, 下午好 after noon, and 晚上好 in the evening."
+    },
+    {
+      "title": "Asking How Someone Is",
+      "explanation": "Add 吗 (ma) at the end of a sentence to make it a yes/no question.",
+      "example_zh": "你好吗？",
+      "example_pinyin": "Nǐ hǎo ma?",
+      "example_en": "How are you?",
+      "note": "A common response is 我很好 (Wǒ hěn hǎo) meaning 'I am very well.'"
+    },
+    {
+      "title": "Apologizing",
+      "explanation": "Use 对不起 to apologize and 没关系 to respond politely.",
+      "example_zh": "对不起。",
+      "example_pinyin": "Duìbuqǐ.",
+      "example_en": "I'm sorry.",
+      "note": "没关系 means 'It's okay' or 'No problem.'"
+    },
+    {
+      "title": "Thanking Someone",
+      "explanation": "Use 谢谢 to thank someone. Respond with 不客气 or 不谢.",
+      "example_zh": "谢谢！",
+      "example_pinyin": "Xièxie!",
+      "example_en": "Thank you!",
+      "note": "不客气 is much more common than 不谢 in modern Mandarin."
+    },
+    {
+      "title": "Farewells & Wishes",
+      "explanation": "Use these expressions when leaving or celebrating special occasions.",
+      "example_zh": "再见！",
+      "example_pinyin": "Zàijiàn!",
+      "example_en": "Goodbye!",
+      "note": "新年快乐 is used during the Chinese New Year."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "en": "Hello!"
+    },
+    {
+      "zh": "您好！",
+      "pinyin": "Nín hǎo!",
+      "en": "Hello! (Formal)"
+    },
+    {
+      "zh": "大家好！",
+      "pinyin": "Dàjiā hǎo!",
+      "en": "Hello everyone!"
+    },
+    {
+      "zh": "早上好！",
+      "pinyin": "Zǎoshang hǎo!",
+      "en": "Good morning!"
+    },
+    {
+      "zh": "上午好！",
+      "pinyin": "Shàngwǔ hǎo!",
+      "en": "Good morning! (Late morning)"
+    },
+    {
+      "zh": "下午好！",
+      "pinyin": "Xiàwǔ hǎo!",
+      "en": "Good afternoon!"
+    },
+    {
+      "zh": "晚上好！",
+      "pinyin": "Wǎnshang hǎo!",
+      "en": "Good evening!"
+    },
+    {
+      "zh": "晚安！",
+      "pinyin": "Wǎn'ān!",
+      "en": "Good night!"
+    },
+    {
+      "zh": "你好吗？",
+      "pinyin": "Nǐ hǎo ma?",
+      "en": "How are you?"
+    },
+    {
+      "zh": "我很好。",
+      "pinyin": "Wǒ hěn hǎo.",
+      "en": "I am very well."
+    },
+    {
+      "zh": "对不起。",
+      "pinyin": "Duìbuqǐ.",
+      "en": "Sorry."
+    },
+    {
+      "zh": "没关系。",
+      "pinyin": "Méi guānxi.",
+      "en": "It's okay."
+    },
+    {
+      "zh": "谢谢！",
+      "pinyin": "Xièxie!",
+      "en": "Thank you!"
+    },
+    {
+      "zh": "不谢。",
+      "pinyin": "Bú xiè.",
+      "en": "Don't mention it."
+    },
+    {
+      "zh": "不客气。",
+      "pinyin": "Bú kèqi.",
+      "en": "You're welcome."
+    },
+    {
+      "zh": "再见！",
+      "pinyin": "Zàijiàn!",
+      "en": "Goodbye!"
+    },
+    {
+      "zh": "新年快乐！",
+      "pinyin": "Xīnnián kuàilè!",
+      "en": "Happy New Year!"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "你好",
+      "pinyin": "nǐ hǎo",
+      "en": "hello"
+    },
+    {
+      "zh": "您好",
+      "pinyin": "nín hǎo",
+      "en": "hello (formal)"
+    },
+    {
+      "zh": "大家",
+      "pinyin": "dàjiā",
+      "en": "everyone"
+    },
+    {
+      "zh": "早上",
+      "pinyin": "zǎoshang",
+      "en": "morning"
+    },
+    {
+      "zh": "上午",
+      "pinyin": "shàngwǔ",
+      "en": "late morning"
+    },
+    {
+      "zh": "下午",
+      "pinyin": "xiàwǔ",
+      "en": "afternoon"
+    },
+    {
+      "zh": "晚上",
+      "pinyin": "wǎnshang",
+      "en": "evening"
+    },
+    {
+      "zh": "晚安",
+      "pinyin": "wǎn'ān",
+      "en": "good night"
+    },
+    {
+      "zh": "吗",
+      "pinyin": "ma",
+      "en": "question particle"
+    },
+    {
+      "zh": "对不起",
+      "pinyin": "duìbuqǐ",
+      "en": "sorry"
+    },
+    {
+      "zh": "没关系",
+      "pinyin": "méi guānxi",
+      "en": "it's okay"
+    },
+    {
+      "zh": "谢谢",
+      "pinyin": "xièxie",
+      "en": "thank you"
+    },
+    {
+      "zh": "不谢",
+      "pinyin": "bú xiè",
+      "en": "don't mention it"
+    },
+    {
+      "zh": "不客气",
+      "pinyin": "bú kèqi",
+      "en": "you're welcome"
+    },
+    {
+      "zh": "再见",
+      "pinyin": "zàijiàn",
+      "en": "goodbye"
+    },
+    {
+      "zh": "很好",
+      "pinyin": "hěn hǎo",
+      "en": "very well"
+    },
+    {
+      "zh": "新年快乐",
+      "pinyin": "xīnnián kuàilè",
+      "en": "Happy New Year"
+    }
+  ]
+}
