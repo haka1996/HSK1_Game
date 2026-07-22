@@ -1,5 +1,13 @@
 {
   "files": [
-    "greetings.json"
+    "greetings.json",
+    "basics.json",
+    "daily-objects.json",
+    "day-time.json",
+    "prepositions.json",
+    "weather.json",
+    "present_continuous.json",
+    "city.json",
+    "conversation_on_phone.json"
   ]
 }
