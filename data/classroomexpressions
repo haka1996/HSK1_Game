@@ -1,0 +1,222 @@
+{
+  "id": 8,
+  "name": "Classroom Expressions",
+  "date": "-",
+  "topic": "HSK 1.1",
+  "concepts": [
+    {
+      "title": "Classroom Vocabulary",
+      "explanation": "These are common words used by teachers and students in the classroom.",
+      "example_zh": "老师",
+      "example_pinyin": "Lǎoshī",
+      "example_en": "Teacher",
+      "note": "老师 is the standard way to address or refer to a teacher."
+    },
+    {
+      "title": "Asking and Answering Questions",
+      "explanation": "Use 有问题吗 to ask whether someone has any questions.",
+      "example_zh": "有问题吗？",
+      "example_pinyin": "Yǒu wèntí ma?",
+      "example_en": "Any questions?",
+      "note": "Answer with 我有问题 (I have a question) or 我没有问题 (I have no questions)."
+    },
+    {
+      "title": "Checking Understanding",
+      "explanation": "Teachers often ask whether students understand the lesson.",
+      "example_zh": "懂了吗？",
+      "example_pinyin": "Dǒng le ma?",
+      "example_en": "Do you understand?",
+      "note": "You can answer 懂了 (I understand) or 不懂 (I don't understand)."
+    },
+    {
+      "title": "Waiting and Interrupting Politely",
+      "explanation": "Use these expressions when asking someone to wait or excusing yourself.",
+      "example_zh": "等一下！",
+      "example_pinyin": "Děng yíxià!",
+      "example_en": "Wait a moment!",
+      "note": "不好意思 is a polite way to say 'Excuse me.' 对不起 is used when apologizing."
+    },
+    {
+      "title": "Classroom Instructions",
+      "explanation": "These are common instructions given by teachers during class.",
+      "example_zh": "请我读。",
+      "example_pinyin": "Qǐng wǒ dú.",
+      "example_en": "Read after me.",
+      "note": "These expressions are frequently heard in beginner Chinese classes."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "老师。",
+      "pinyin": "Lǎoshī.",
+      "en": "Teacher."
+    },
+    {
+      "zh": "有问题吗？",
+      "pinyin": "Yǒu wèntí ma?",
+      "en": "Any questions?"
+    },
+    {
+      "zh": "我没有问题。",
+      "pinyin": "Wǒ méiyǒu wèntí.",
+      "en": "I have no questions."
+    },
+    {
+      "zh": "我有问题。",
+      "pinyin": "Wǒ yǒu wèntí.",
+      "en": "I have a question."
+    },
+    {
+      "zh": "懂了吗？",
+      "pinyin": "Dǒng le ma?",
+      "en": "Do you understand?"
+    },
+    {
+      "zh": "懂了。",
+      "pinyin": "Dǒng le.",
+      "en": "Yes, I understand."
+    },
+    {
+      "zh": "我懂。",
+      "pinyin": "Wǒ dǒng.",
+      "en": "I understand."
+    },
+    {
+      "zh": "不懂。",
+      "pinyin": "Bù dǒng.",
+      "en": "I don't understand."
+    },
+    {
+      "zh": "明白了吗？",
+      "pinyin": "Míngbái le ma?",
+      "en": "Do you understand?"
+    },
+    {
+      "zh": "明白了。",
+      "pinyin": "Míngbái le.",
+      "en": "Yes, I understand."
+    },
+    {
+      "zh": "不明白。",
+      "pinyin": "Bù míngbái.",
+      "en": "I don't understand."
+    },
+    {
+      "zh": "等一下！",
+      "pinyin": "Děng yíxià!",
+      "en": "Wait a moment!"
+    },
+    {
+      "zh": "等等！",
+      "pinyin": "Děng děng!",
+      "en": "Wait!"
+    },
+    {
+      "zh": "不好意思。",
+      "pinyin": "Bù hǎoyìsi.",
+      "en": "Excuse me."
+    },
+    {
+      "zh": "对不起。",
+      "pinyin": "Duìbuqǐ.",
+      "en": "Sorry."
+    },
+    {
+      "zh": "上课。",
+      "pinyin": "Shàngkè.",
+      "en": "Class begins."
+    },
+    {
+      "zh": "下课。",
+      "pinyin": "Xiàkè.",
+      "en": "Class is over."
+    },
+    {
+      "zh": "现在休息。",
+      "pinyin": "Xiànzài xiūxi.",
+      "en": "Break time."
+    },
+    {
+      "zh": "请我读。",
+      "pinyin": "Qǐng wǒ dú.",
+      "en": "Read after me."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "老师",
+      "pinyin": "lǎoshī",
+      "en": "teacher"
+    },
+    {
+      "zh": "有",
+      "pinyin": "yǒu",
+      "en": "to have"
+    },
+    {
+      "zh": "没有",
+      "pinyin": "méiyǒu",
+      "en": "do not have"
+    },
+    {
+      "zh": "问题",
+      "pinyin": "wèntí",
+      "en": "question; problem"
+    },
+    {
+      "zh": "懂",
+      "pinyin": "dǒng",
+      "en": "to understand"
+    },
+    {
+      "zh": "明白",
+      "pinyin": "míngbái",
+      "en": "to understand; clear"
+    },
+    {
+      "zh": "等",
+      "pinyin": "děng",
+      "en": "to wait"
+    },
+    {
+      "zh": "一下",
+      "pinyin": "yíxià",
+      "en": "a moment"
+    },
+    {
+      "zh": "不好意思",
+      "pinyin": "bù hǎoyìsi",
+      "en": "excuse me; embarrassed"
+    },
+    {
+      "zh": "对不起",
+      "pinyin": "duìbuqǐ",
+      "en": "sorry"
+    },
+    {
+      "zh": "上课",
+      "pinyin": "shàngkè",
+      "en": "to begin class"
+    },
+    {
+      "zh": "下课",
+      "pinyin": "xiàkè",
+      "en": "class is over"
+    },
+    {
+      "zh": "休息",
+      "pinyin": "xiūxi",
+      "en": "to rest; break"
+    },
+    {
+      "zh": "请",
+      "pinyin": "qǐng",
+      "en": "please"
+    },
+    {
+      "zh": "读",
+      "pinyin": "dú",
+      "en": "to read"
+    }
+  ]
+}
