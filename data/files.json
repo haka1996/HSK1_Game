@@ -1,6 +1,7 @@
 {
   "files": [
     "greetings.json",
+    "classroomexpressions.json",
     "basics.json",
     "daily-objects.json",
     "day-time.json",
